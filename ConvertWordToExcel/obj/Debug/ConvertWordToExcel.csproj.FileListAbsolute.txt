@@ -1,0 +1,9 @@
+E:\My Soft\C#\ConvertWordToExcel\ConvertWordToExcel\bin\Debug\ConvertWordToExcel.exe
+E:\My Soft\C#\ConvertWordToExcel\ConvertWordToExcel\bin\Debug\ConvertWordToExcel.pdb
+E:\My Soft\C#\ConvertWordToExcel\ConvertWordToExcel\obj\Debug\ResolveAssemblyReference.cache
+E:\My Soft\C#\ConvertWordToExcel\ConvertWordToExcel\obj\Debug\ConvertWordToExcel.frmConvertWordToExcel.resources
+E:\My Soft\C#\ConvertWordToExcel\ConvertWordToExcel\obj\Debug\ConvertWordToExcel.Properties.Resources.resources
+E:\My Soft\C#\ConvertWordToExcel\ConvertWordToExcel\obj\Debug\ConvertWordToExcel.csproj.GenerateResource.Cache
+E:\My Soft\C#\ConvertWordToExcel\ConvertWordToExcel\obj\Debug\ConvertWordToExcel.exe
+E:\My Soft\C#\ConvertWordToExcel\ConvertWordToExcel\obj\Debug\ConvertWordToExcel.pdb
+E:\My Soft\C#\ConvertWordToExcel\ConvertWordToExcel\obj\Debug\ConvertWordToExcel.csproj.ResolveComReference.cache
